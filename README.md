@@ -1,2 +1,5 @@
-# Logic-Building-Assignments
-This repository contains programming assignments in C, C++, and Java. Each folder includes problem-solving questions with solutions to strengthen programming skills, improve algorithmic thinking, and build confidence in solving real-world problems using various languages.
+# Logic Building Assignments
+
+This repository contains logic building assignments and programs written in C, C++, and Java. Each assignment is organized into folders (e.g., `Assignment_1`, `Assignment_2`, etc.), and each folder contains multiple question files.
+
+## Folder Structure
