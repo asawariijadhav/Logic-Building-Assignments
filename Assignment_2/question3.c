@@ -1,4 +1,4 @@
-// Accept one number from user If number < 10 print “Hello” otherwise else “Demo”.
+// Accept one number from user If number < 10 print “Hello” otherwise “Demo”.
 
 #include <stdio.h>
 

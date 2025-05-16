@@ -1,8 +1,4 @@
-# Logic Building Assignments - C Programs
-
-**Assignment 3**
-
-This repository contains logic-building exercises using the C programming language. These tasks focus on loops, conditionals, character handling, and basic number operations.
+# Logic Building Assignment 3 - C Programs
 
 ---
 

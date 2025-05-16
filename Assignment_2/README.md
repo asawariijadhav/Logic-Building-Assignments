@@ -1,6 +1,4 @@
-# Logic Building Assignments - C Programs (Assignment 2)
-
-This repository contains beginner-level logic-building assignments in the C programming language. These exercises focus on conditional logic, loops, and user-defined functions using standard I/O.
+# Logic Building Assignment 2 - C Programs
 
 ## Programs
 
@@ -36,7 +34,6 @@ This repository contains beginner-level logic-building assignments in the C prog
 Use any C compiler like GCC:
 
 ```bash
-gcc program_name.c -o output
-./output
-
+gcc program_name.c -o myexe
+./myexe
 ```
