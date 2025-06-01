@@ -20,13 +20,13 @@ O(n) where n = iNo
 
 void NonFact(int iNo)
 {
-  int i = 0;
+  int iCnt = 0;
 
-  for (i = 1; i < iNo; i++)
+  for (iCnt = 1; iCnt < iNo; iCnt++)
   {
-    if (iNo % i != 0)
+    if (iNo % iCnt != 0)
     {
-      printf("%d  ", i);
+      printf("%d  ", iCnt);
     }
   }
   printf("\n");

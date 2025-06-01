@@ -6,8 +6,8 @@
 
 void Display(int iNo, int iFrequency)
 {
-  int i = 0;
-  for (i = 0; i < iFrequency; i++)
+  int iCnt = 0;
+  for (iCnt = 0; iCnt < iFrequency; iCnt++)
   {
     printf("%d ", iNo);
   }

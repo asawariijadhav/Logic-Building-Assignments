@@ -15,12 +15,15 @@ Time Complexity: O(1)
 
 double FhtoCs(float F)
 {
-  return (F - 32) * (5.0 / 9.0);
+  double Celsius = 0.0;
+  Celsius = (F - 32) * (5.0 / 9.0);
+  return Celsius;
 }
 
 int main()
 {
   float F = 0.0;
+  double dRet = 0.0;
 
   printf("Enter temperature in Fahrenheit:\n");
   scanf("%f", &F);

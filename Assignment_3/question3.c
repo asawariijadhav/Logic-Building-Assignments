@@ -4,18 +4,18 @@
 
 void DisplayEvenFactor(int iNo)
 {
-  int i = 0;
+  int iCnt = 0;
 
   if (iNo <= 0)
   {
     iNo = -iNo;
   }
 
-  for (i = 1; i < iNo; i++) // strictly less than iNo to exclude the number itself
+  for (iCnt = 1; iCnt < iNo; iCnt++) // strictly less than iNo to exclude the number itself
   {
-    if ((iNo % i == 0) && (i % 2 == 0))
+    if ((iNo % iCnt == 0) && (iCnt % 2 == 0))
     {
-      printf("%d ", i);
+      printf("%d ", iCnt);
     }
   }
   printf("\n");

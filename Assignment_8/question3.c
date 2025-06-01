@@ -15,12 +15,14 @@ Time Complexity: O(1)
 
 int KMtoMeter(int KM)
 {
-  return KM * 1000;
+  int Meter = 0;
+  Meter = KM * 1000;
+  return Meter;
 }
-
 int main()
 {
   int KM = 0;
+  int iRet = 0;
 
   printf("Enter distance in KM:\n");
   scanf("%d", &KM);

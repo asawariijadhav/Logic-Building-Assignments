@@ -16,12 +16,15 @@ Time Complexity: O(1)
 
 double RectangleArea(float Width, float Height)
 {
-  return Width * Height;
-}
+  double Area;
 
+  Area = Width * Height;
+  return Area;
+}
 int main()
 {
   float Width = 0.0, Height = 0.0;
+  double dRet = 0.0;
 
   printf("Enter Width:\n");
   scanf("%f", &Width);

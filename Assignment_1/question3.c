@@ -4,11 +4,11 @@
 
 void Display()
 {
-  int i = 5;
-  while (i >= 1)
+  int iCnt = 5;
+  while (iCnt >= 1)
   {
-    printf("%d\n", i);
-    i--;
+    printf("%d\n", iCnt);
+    iCnt--;
   }
 }
 

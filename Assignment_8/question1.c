@@ -13,18 +13,22 @@ Time Complexity: O(1)
 
 double CircleArea(float Radius)
 {
-  return 3.14 * Radius * Radius;
+  double Area = 0;
+  double Pi = 3.14;
+  Area = Pi * Radius * Radius;
+  return Area;
 }
 
 int main()
 {
   float Radius = 0.0;
+  double dRet = 0.0;
 
   printf("Enter the radius:\n");
-  scanf("%f", &Radius);
+  scanf("%f", &Radius); // Taking input
 
-  double dRet = CircleArea(Radius);
-  printf("Area is: %f\n", dRet);
+  dRet = CircleArea(Radius);     // Function call
+  printf("Area is: %f\n", dRet); // Output result
 
   return 0;
 }

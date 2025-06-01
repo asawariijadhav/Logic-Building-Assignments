@@ -4,18 +4,18 @@
 
 void DisplayFactor(int iNo)
 {
-  int i = 0;
+  int iCnt = 0;
 
   if (iNo <= 0)
   {
     iNo = -iNo;
   }
 
-  for (i = 1; i <= iNo; i++)
+  for (iCnt = 1; iCnt <= iNo; iCnt++)
   {
-    if ((iNo % i == 0) && (i % 2 == 0))
+    if ((iNo % iCnt == 0) && (iCnt % 2 == 0))
     {
-      printf("%d ", i);
+      printf("%d ", iCnt);
     }
   }
 

@@ -13,7 +13,8 @@ Time Complexity: O(n)
 
 void Display(int iNo)
 {
-  for (int i = 1; i <= iNo; i++)
+  int iCnt = 0;
+  for (iCnt = 1; iCnt <= iNo; iCnt++)
   {
     printf("*\t");
   }

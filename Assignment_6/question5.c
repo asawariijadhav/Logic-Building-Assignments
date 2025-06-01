@@ -16,10 +16,10 @@ Time Complexity:O(1) – O(1) – Fixed 10 iterations.
 
 void TableRev(int iNo)
 {
-  int i = 0;
-  for (i = 10; i >= 1; i--)
+  int iCnt = 0;
+  for (iCnt = 10; iCnt >= 1; iCnt--)
   {
-    printf("%d ", iNo * i);
+    printf("%d ", iNo * iCnt);
   }
 }
 

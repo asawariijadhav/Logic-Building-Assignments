@@ -15,10 +15,10 @@ Time Complexity:O(1) – O(n) – One loop from 1 to n.
 
 void Table(int iNo)
 {
-  int i = 0;
-  for (i = 1; i <= 10; i++)
+  int iCnt = 0;
+  for (iCnt = 1; iCnt <= 10; iCnt++)
   {
-    printf("%d ", iNo * i);
+    printf("%d ", iNo * iCnt);
   }
 }
 

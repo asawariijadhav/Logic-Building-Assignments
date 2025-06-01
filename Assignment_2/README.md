@@ -1,39 +1,35 @@
-# Logic Building Assignment 2 - C Programs
+Logic Building Assignment 2 - C Programs
 
-## Programs
+Programs
 
-### 1. Print `*` Based on User Input (Using While Loop)
+1. Print \* Based on User Input (Using While Loop)
 
-- **Function:** `Display(int iNo)`
-- **Description:** Accepts a number from the user and prints that number of asterisks on the screen using a `while` loop.
+   Function: Display(int iNo)
+   Description: Accepts a number from the user and prints that number of asterisks on the screen using a while loop.
 
-### 2. Print `*` Based on User Input (While Loop - Decrementing)
+2. Print \* Based on User Input (While Loop - Decrementing)
 
-- **Function:** `Display(int iNo)`
-- **Description:** Prints asterisks equal to the input number, decrementing the value inside a `while` loop.
+   Function: Display(int iNo)
+   Description: Prints asterisks equal to the input number, decrementing the value inside a while loop.
 
-### 3. Print “Hello” if Number < 10, Else Print “Demo”
+3. Print “Hello” if Number < 10, Else Print “Demo”
 
-- **Function:** `Display(int iNo)`
-- **Description:** If the input is less than 10, it prints “Hello”; otherwise, it prints “Demo”.
+   Function: Display(int iNo)
+   Description: If the input is less than 10, it prints “Hello”; otherwise, it prints “Demo”.
 
-### 4. Print a Number N Times
+4. Print a Number N Times
 
-- **Function:** `Display(int iNo, int iFrequency)`
-- **Description:** Accepts two inputs and prints the first number as output for the number of times specified by the second input.
+   Function: Display(int iNo, int iFrequency)
+   Description: Accepts two inputs and prints the first number as output for the number of times specified by the second input.
 
-### 5. Check Whether Number is Even or Odd
+5. Check Whether Number is Even or Odd
 
-- **Function:** `ChkEven(int iNo)`
-- **Description:** Returns `TRUE` if the input number is even, otherwise returns `FALSE`.
+   Function: ChkEven(int iNo)
+   Description: Returns TRUE if the input number is even, otherwise returns FALSE.
 
----
-
-## How to Compile
+How to Compile
 
 Use any C compiler like GCC:
 
-```bash
 gcc program_name.c -o myexe
 ./myexe
-```

@@ -15,12 +15,12 @@ Time Complexity:O(1) – O(n) – One loop from 1 to n.
 
 int Factorial(int iNo)
 {
-  int i = 0;
+  int iCnt = 0;
   int iFact = 1;
 
-  for (i = 1; i <= iNo; i++)
+  for (iCnt = 1; iCnt <= iNo; iCnt++)
   {
-    iFact = iFact * i;
+    iFact = iFact * iCnt;
   }
 
   return iFact;

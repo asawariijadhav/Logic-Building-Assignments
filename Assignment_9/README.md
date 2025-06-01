@@ -14,7 +14,5 @@
 
 ## Compilation
 
-```bash
 gcc program.c -o myexe
 ./myexe
-```

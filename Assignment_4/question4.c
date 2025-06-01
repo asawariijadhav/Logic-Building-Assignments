@@ -20,13 +20,13 @@ O(n) where n = iNo
 
 int SumNonFact(int iNo)
 {
-  int i = 0, iSum = 0;
+  int iCnt = 0, iSum = 0;
 
-  for (i = 1; i < iNo; i++)
+  for (iCnt = 1; iCnt < iNo; iCnt++)
   {
-    if (iNo % i != 0)
+    if (iNo % iCnt != 0)
     {
-      iSum += i;
+      iSum += iCnt;
     }
   }
 

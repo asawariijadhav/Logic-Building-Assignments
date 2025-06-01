@@ -4,8 +4,8 @@
 
 void Display()
 {
-  int i = 0;
-  for (i = 1; i <= 5; i++)
+  int iCnt = 0;
+  for (iCnt = 1; iCnt <= 5; iCnt++)
   {
     printf("Marvellous\n");
   }

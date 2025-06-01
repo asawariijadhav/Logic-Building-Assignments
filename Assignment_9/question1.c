@@ -10,9 +10,11 @@ Time Complexity: O(N) where N is the number of digits
 
 void DisplayDigit(int iNo)
 {
+  int iDigit = 0;
+
   while (iNo != 0)
   {
-    int iDigit = iNo % 10;
+    iDigit = iNo % 10;
     printf("%d\n", iDigit);
     iNo = iNo / 10;
   }

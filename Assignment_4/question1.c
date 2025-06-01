@@ -20,14 +20,14 @@ O(n) where n = iNo/2
 
 void MultFactors(int iNo)
 {
-  int i = 0;
+  int iCnt = 0;
   int iMult = 1;
 
-  for (i = 1; i <= iNo / 2; i++)
+  for (iCnt = 1; iCnt <= iNo / 2; iCnt++)
   {
-    if (iNo % i == 0)
+    if (iNo % iCnt == 0)
     {
-      iMult *= i;
+      iMult *= iCnt;
     }
   }
 

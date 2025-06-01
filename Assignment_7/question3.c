@@ -14,12 +14,13 @@ Time Complexity: O(n)
 
 int EvenFactorial(int iNo)
 {
+  int iCnt = 0;
   int iFact = 1;
-  for (int i = 1; i <= iNo; i++)
+  for (iCnt = 1; iCnt <= iNo; iCnt++)
   {
-    if (i % 2 == 0)
+    if (iCnt % 2 == 0)
     {
-      iFact *= i;
+      iFact *= iCnt;
     }
   }
   return iFact;

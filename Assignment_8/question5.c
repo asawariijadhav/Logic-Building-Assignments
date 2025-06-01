@@ -10,12 +10,14 @@ Time Complexity: O(1)
 
 double SquareMeter(int Value)
 {
-  return Value * 0.0929;
+  double Area = 0.0;
+  Area = Value * 0.0929;
 }
 
 int main()
 {
   int Value = 0;
+  double dRet = 0.0;
 
   printf("Enter area in square feet:\n");
   scanf("%d", &Value);

@@ -20,13 +20,13 @@ O(n) where n = iNo/2
 
 void FactRev(int iNo)
 {
-  int i = 0;
+  int iCnt = 0;
 
-  for (i = iNo / 2; i >= 1; i--)
+  for (iCnt = iNo / 2; iCnt >= 1; iCnt--)
   {
-    if (iNo % i == 0)
+    if (iNo % iCnt == 0)
     {
-      printf("%d  ", i);
+      printf("%d  ", iCnt);
     }
   }
   printf("\n");

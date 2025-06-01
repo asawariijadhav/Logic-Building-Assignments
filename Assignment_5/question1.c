@@ -19,8 +19,8 @@ Time Complexity: O(n)
 
 void Pattern(int iNo)
 {
-  int i = 0;
-  for (i = 1; i <= iNo; i++)
+  int iCnt = 0;
+  for (iCnt = 1; iCnt <= iNo; iCnt++)
   {
     printf("* ");
   }

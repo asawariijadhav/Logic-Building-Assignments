@@ -4,7 +4,7 @@
 
 void PrintEven(int iNo)
 {
-  int i = 1;
+  int iCnt = 1;
 
   if (iNo <= 0)
   {
@@ -12,10 +12,10 @@ void PrintEven(int iNo)
     return;
   }
 
-  while (i <= iNo)
+  while (iCnt <= iNo)
   {
-    printf("%d ", i * 2); // even numbers: 2, 4, 6, ...
-    i++;
+    printf("%d ", iCnt * 2); // even numbers: 2, 4, 6, ...
+    iCnt++;
   }
 
   printf("\n");

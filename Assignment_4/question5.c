@@ -20,17 +20,17 @@ O(n) where n = iNo
 
 int FactDiff(int iNo)
 {
-  int i = 0, iFactSum = 0, iNonFactSum = 0;
+  int iCnt = 0, iFactSum = 0, iNonFactSum = 0;
 
-  for (i = 1; i < iNo; i++)
+  for (iCnt = 1; iCnt < iNo; iCnt++)
   {
-    if (iNo % i == 0)
+    if (iNo % iCnt == 0)
     {
-      iFactSum += i;
+      iFactSum += iCnt;
     }
     else
     {
-      iNonFactSum += i;
+      iNonFactSum += iCnt;
     }
   }
 
