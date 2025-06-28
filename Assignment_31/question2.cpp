@@ -1,8 +1,18 @@
-/*
-2. Write a program which accept one number from user and off 7th & 10th bit of that number if it is on. Return modified number.
-Input : 577
-Output : 1
-*/
+/////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.cpp
+//  Description : OFF the 7th and 10th bits of a number if they are ON.
+//  Problem     : Write a program which accepts one number from user and
+//                OFFs the 7th and 10th bits of that number if they are ON.
+//                Return modified number.
+//
+//                Input  : 577
+//                Output : 1
+//
+//  Author      : Asawari Jadhav
+//  Date        : 18/06/2025
+//
+/////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
 using namespace std;

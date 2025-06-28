@@ -1,4 +1,18 @@
-// Accept on character from user and check whether that character is vowel(a,e,i,o,u) or not.
+
+/////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Check whether character is vowel.
+//  Problem     : Accept one character from user and check whether that
+//                character is vowel (a,e,i,o,u) or not.
+//
+//                Input  : 'e'
+//                Output : Vowel
+//
+//  Author      : Asawari Jadhav
+//  Date        : 10/05/2025
+//
+/////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

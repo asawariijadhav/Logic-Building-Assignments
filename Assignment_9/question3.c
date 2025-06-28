@@ -1,10 +1,15 @@
-/*
-
- Q3. Write a program which accept number from user and count frequency of 2 in it.
-
-Time Complexity:
-
-*/
+////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question3.c
+//  Description : Count frequency of digit 2 in number.
+//
+//  Problem     : Write a program which accept number from user and count frequency
+//                of 2 in it.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+/////////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

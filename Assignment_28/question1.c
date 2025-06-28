@@ -1,9 +1,17 @@
-/*
- 1. Write application which accepts file name from user and open that file in read mode.
-Input: Demo.txt
-Output: File opened successfully
-*/
-
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Open file in read mode.
+//  Problem     : Write application which accepts file name from user and open
+//                that file in read mode.
+//
+//                Input  : Demo.txt
+//                Output : File opened successfully
+//
+//  Author      : Asawari Jadhav
+//  Date        : 13/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 #include <stdio.h>
 #include <fcntl.h>
 #include <unistd.h>

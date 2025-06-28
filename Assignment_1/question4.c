@@ -1,4 +1,17 @@
-// Accept one number from that user and print number of * on screen.
+//////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Check whether the number is divisible by 5.
+//  Problem     : Accept one number from user and check whether
+//                it is divisible by 5.
+//
+//                Input  : 25
+//                Output : Divisible by 5
+//
+//  Author      : Asawari Jadhav
+//  Date        : 10/05/2025
+//
+//////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

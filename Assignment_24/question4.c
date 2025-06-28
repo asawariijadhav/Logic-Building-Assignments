@@ -1,12 +1,18 @@
-/*
-4. Write a program which accepts string from user and check whether it contains vowels in it or not.
-
-Input:
-"marvellous" → TRUE
-"Demo" → TRUE
-"xyz" → FALSE
-
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Check whether string contains vowels or not.
+//  Problem     : Write a program which accepts string from user and checks whether
+//                it contains vowels in it or not.
+//
+//                Input  : "marvellous" → TRUE
+//                Input  : "Demo" → TRUE
+//                Input  : "xyz" → FALSE
+//
+//  Author      : Asawari Jadhav
+//  Date        : 30/05/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 #include <stdio.h>
 
 #define TRUE 1

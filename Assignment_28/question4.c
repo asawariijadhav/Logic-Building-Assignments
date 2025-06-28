@@ -1,8 +1,18 @@
-/*
-4. Write application which accepts file name from user and displays size of file.
-Input: Demo.txt
-Output: File size is 56 bytes
-*/
+
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Display file size.
+//  Problem     : Write application which accepts file name from user and displays
+//                size of file.
+//
+//                Input  : Demo.txt
+//                Output : File size is 56 bytes
+//
+//  Author      : Asawari Jadhav
+//  Date        : 13/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <fcntl.h>

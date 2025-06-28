@@ -1,8 +1,17 @@
-/*
-2. Write a program which accept two Numbers from user and display positionof common ON  bits from that two numbers.
-Input: 10  15
-Output: 2   4
-*/
+///////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.cpp
+//  Description : Display positions of common ON bits between two numbers.
+//  Problem     : Write a program which accepts two numbers from user and
+//                displays the positions of common ON bits in both numbers.
+//
+//                Input  : 10  15
+//                Output : 2  4
+//
+//  Author      : Asawari Jadhav
+//  Date        : 18/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
 using namespace std;

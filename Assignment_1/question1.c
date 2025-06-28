@@ -1,4 +1,17 @@
-// Program is divide two numbers.
+
+//////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Program to divide two numbers and return the result.
+//  Problem     : Write a program to divide two numbers and return the result.
+//
+//                Input  : 15, 5
+//                Output : 3
+//
+//  Author      : Asawari Jadhav
+//  Date        : 10/05/2025
+//
+////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

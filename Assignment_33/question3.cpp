@@ -1,8 +1,17 @@
-/*
-3. Write a program which accept one Number from user and check whether 9th or 12th bit is ON or OFF.
-Input: 257
-Output: TRUE
-*/
+///////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question3.cpp
+//  Description : Check whether 9th or 12th bit is ON or OFF in a given number.
+//  Problem     : Write a program which accepts one number from user and
+//                checks whether the 9th or 12th bit is ON or OFF.
+//
+//                Input  : 257
+//                Output : TRUE
+//
+//  Author      : Asawari Jadhav
+//  Date        : 18/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
 using namespace std;

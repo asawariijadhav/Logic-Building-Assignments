@@ -1,4 +1,19 @@
-// Accept number from user and check whether number is even or odd.
+////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Check whether the entered number is even or odd.
+//  Problem     : Accept one number from user and check whether it is even or odd.
+//
+//                Input  : 11
+//                Output : Number is Odd
+//
+//                Input  : 20
+//                Output : Number is Even
+//
+//  Author      : Asawari Jadhav
+//  Date        : 27/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

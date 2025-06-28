@@ -1,12 +1,18 @@
-/*
-3. Write a program which accepts string from user and return difference between frequency of small characters and capital characters.
 
-Input:
-"Marvellous"
-
-Output:
-6 (8 - 2)
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question3.c
+//  Description : Return difference between frequency of small and capital characters.
+//  Problem     : Write a program which accepts string from user and returns difference
+//                between frequency of small and capital characters.
+//
+//                Input  : "Marvellous"
+//                Output : 6 (8 - 2)
+//
+//  Author      : Asawari Jadhav
+//  Date        : 30/05/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

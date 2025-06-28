@@ -1,12 +1,20 @@
-/*
-5. Accept N numbers from user and display all such elements which are multiples by 11.
-
-Input: N : 6
-
-Elements: 85 66 3 55 93 88
-
-Output: 66 55 88
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Display elements which are multiples of 11.
+//
+//  Problem     : Accept N numbers from user and display all such elements
+//                which are multiples by 11.
+//
+//                Input:    N = 6
+//
+//                Elements: 85 66 3 55 93 88
+//                Output: 66 55 88
+//
+//  Author      : Asawari Jadhav
+//  Date        : 24/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <stdlib.h>

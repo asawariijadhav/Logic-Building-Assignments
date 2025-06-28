@@ -1,8 +1,17 @@
-/*
-5. Write a program which accept one number from user and ON its first 4 bits. Return modified number.
-Input : 73
-Output : 79
-*/
+////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.cpp
+//  Description : ON the first 4 bits of a number.
+//  Problem     : Write a program which accepts one number from user and
+//                turns ON its first 4 bits. Return modified number.
+//
+//                Input  : 73
+//                Output : 79
+//
+//  Author      : Asawari Jadhav
+//  Date        : 18/06/2025
+//
+////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
 using namespace std;

@@ -1,6 +1,16 @@
-// Accept one number from user and display first number in second number of times.
-// Input : 12 5
-// Output : 12 12 12 12 12
+////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Print first number, second number of times.
+//  Problem     : Accept one number and display it given number of times.
+//
+//                Input  : 12 5
+//                Output : 12 12 12 12 12
+//
+//  Author      : Asawari Jadhav
+//  Date        : 10/05/2025
+//
+////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

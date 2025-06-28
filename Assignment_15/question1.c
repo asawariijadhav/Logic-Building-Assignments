@@ -1,12 +1,22 @@
-/*
-1. Accept number of rows and number of columns from user and display below pattern.
-Input: iRow = 4, iCol = 4
-Output:
-*	#	#	#
-*	*	#	#
-*	*	*	#
-*	*	*	*
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Display lower triangular pattern with stars and hashes.
+//
+//  Problem     : Accept number of rows and number of columns from user and
+//                display below pattern.
+//
+//                Input: iRow = 4, iCol = 4
+//                Output:
+//                *   #   #   #
+//                *   *   #   #
+//                *   *   *   #
+//                *   *   *   *
+//
+//  Author      : Asawari Jadhav
+//  Date        : 24/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

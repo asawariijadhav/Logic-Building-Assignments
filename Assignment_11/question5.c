@@ -1,11 +1,14 @@
-/*
-5. Accept number from user and display below pattern.
-Input: 8
-Output:2    4    6    8    10    12    14    16
-
-
-
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Display even numbers pattern.
+//
+//  Problem     : Accept number from user and display pattern: 2 4 6 8 10 12 14 16
+//
+//  Author      : Asawari Jadhav
+//  Date        : 20/05/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

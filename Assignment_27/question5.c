@@ -1,17 +1,17 @@
-/*
-5. Write a program which 2 strings from user and concat second string after first string. (Implement strcat() function).
-
-Input:
-
-"Marvellous Infosystems" "Logic Building"
-
-
-Output:
-
-"Marvellous Infosystems Logic Building"
-
-
-*/
+//////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Concatenate two strings (strcat implementation).
+//  Problem     : Write a program which accepts two strings from user and concatenates
+//                second string after first string.
+//
+//                Input  : "Marvellous Infosystems" "Logic Building"
+//                Output : "Marvellous Infosystems Logic Building"
+//
+//  Author      : Asawari Jadhav
+//  Date        : 02/06/2025
+//
+//////////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

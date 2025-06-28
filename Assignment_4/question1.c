@@ -1,20 +1,17 @@
-/*
-
-1. Write a program which accept number from user and display the multiplication of factors.
-
-Input:  12
-Output: 144  (1 * 2 * 3 * 4 * 6)
-
-Input:  10
-Output: 10  (1 * 2 * 5)
-
-Input:   8
-Output:   8  (1 * 2 * 4)
-
-Time Complexity:
-O(n) where n = iNo/2
-
-*/
+/////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Display multiplication of factors of given number.
+//  Problem     : Write a program which accept number from user and display the
+//                multiplication of factors.
+//
+//                Input  : 12
+//                Output : 144  (1 * 2 * 3 * 4 * 6)
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+/////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

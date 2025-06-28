@@ -1,9 +1,17 @@
-/*
-5. Write a program which accept one Number from user and range of positions from user. Toggle all bits from that range.
-Input: 897  9  13
-OutPut : 879
-Toggle all bits from position 9 to 13 of input number ie.879
-*/
+////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.cpp
+//  Description : Toggle all bits in a number from a given range of positions.
+//  Problem     : Write a program which accepts one number and a range of positions
+//                from user. Toggle all bits in that range.
+//
+//                Input  : 897  9  13
+//                Output : 879
+//
+//  Author      : Asawari Jadhav
+//  Date        : 18/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
 using namespace std;

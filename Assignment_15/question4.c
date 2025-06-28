@@ -1,14 +1,24 @@
-/*
-4. Accept number of rows and number of columns from user and display below pattern.
-Input: iRow = 6, iCol = 5
-Output:
-*	*	*	*	*
-*	@	@	@	*
-*	@	@	@	*
-*	@	@	@	*
-*	@	@	@	*
-*	*	*	*	*
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Display hollow box pattern with border stars and inner '@'.
+//
+//  Problem     : Accept number of rows and number of columns from user and
+//                display below pattern.
+//
+//                Input: iRow = 6, iCol = 5
+//                Output:
+//                *   *   *   *   *
+//                *   @   @   @   *
+//                *   @   @   @   *
+//                *   @   @   @   *
+//                *   @   @   @   *
+//                *   *   *   *   *
+//
+//  Author      : Asawari Jadhav
+//  Date        : 24/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

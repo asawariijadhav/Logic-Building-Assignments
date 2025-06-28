@@ -1,15 +1,18 @@
-/*
-
-2. Accept amount in US dollars and return its corresponding value in Indian currency. (1 USD = 70 INR)
-
-
-Input: 10
-Value in INR is: 700
-
-Time Complexity: O(1)
-
-
-*/
+////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.c
+//  Description : Convert US dollars to Indian currency.
+//
+//  Problem     : Accept amount in US dollars and return its corresponding value in 
+//                Indian currency.(1 USD = 70 INR)
+//                
+//                Input  : 10
+//                Output : 700
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

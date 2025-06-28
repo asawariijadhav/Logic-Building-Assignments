@@ -1,14 +1,24 @@
-/*
-4. Accept number of rows and number of columns from user and display below pattern.
-Input: iRow = 4, iCol = 4
-Output:
-* * * * * *
-* *       *
-*   *     *
-*     *   *
-*       * *
-* * * * * *
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Display cross-diagonal star pattern inside a square box.
+//
+//  Problem     : Accept number of rows and number of columns from user and
+//                display below pattern.
+//
+//                Input: iRow = 4, iCol = 4
+//                Output:
+//                * * * * * *
+//                * *       *
+//                *   *     *
+//                *     *   *
+//                *       * *
+//                * * * * * *
+//
+//  Author      : Asawari Jadhav
+//  Date        : 24/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

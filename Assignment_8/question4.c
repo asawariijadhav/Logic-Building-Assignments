@@ -1,15 +1,18 @@
-/*
-
-4. Write a program which accepts temperature in Fahrenheit and convert it into Celsius. (C = (F - 32) * (5/9))
-
-Input: Fahrenheit = 111.00
-
-Output: Celsius = 43.888889
-
-
-Time Complexity: O(1)
-
-*/
+/////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Convert Fahrenheit to Celsius.
+//
+//  Problem     : Write a program which accepts temperature in Fahrenheit and convert
+//                it into Celsius.(C = (F - 32) * (5/9))
+//
+//                Input  : Fahrenheit = 111.00
+//                Output : Celsius = 43.888889
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

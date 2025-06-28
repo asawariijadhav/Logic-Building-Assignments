@@ -1,6 +1,14 @@
-/*
-1.Write a program which checks whether 15th bit is ON or OFF.
-*/
+////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.cpp
+//  Description : Check whether 15th bit is ON or OFF.
+//  Problem     : Write a program which checks whether the 15th bit
+//                in the given number is ON or OFF.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 18/06/2025
+//
+////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
 using namespace std;

@@ -1,7 +1,14 @@
-/*
-1. Display ASCII table (0 to 255) with Decimal, Hex, Octal, and Symbol
-
-*/
+/////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Display ASCII table (0 to 255) with Decimal, Hex, Octal, and Symbol.
+//  Problem     : Write a program which displays ASCII table from 0 to 255 showing
+//                Decimal, Hexadecimal, Octal values, and corresponding symbols.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 30/05/2025
+//
+/////////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

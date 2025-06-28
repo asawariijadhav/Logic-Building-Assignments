@@ -1,10 +1,17 @@
-/*
-3.Write a program which accepts file name from user and counts number of white spaces from that file.
-
-Input: Demo.txt
-Output: Number of white spaces are 13
-
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question3.c
+//  Description : Count number of white space characters in the file.
+//  Problem     : Write a program which accepts file name from user and counts 
+//                number of white spaces from that file.
+//
+//                Input  : Demo.txt
+//                Output : Number of white spaces are 13
+//
+//  Author      : Asawari Jadhav
+//  Date        : 13/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <fcntl.h>

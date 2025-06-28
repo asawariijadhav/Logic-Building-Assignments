@@ -1,12 +1,14 @@
-/*
-1. Accept number of rows and number of columns from user and display below pattern.
-Input: iRow = 4, iCol = 4
-Output:
-A  B  C  D
-A  B  C  D
-A  B  C  D
-A  B  C  D
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Display pattern of capital letters in rows and columns.
+//
+//  Problem     : Accept number of rows and columns and display pattern.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 20/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

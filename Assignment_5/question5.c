@@ -1,13 +1,16 @@
-/*
-
-Write a program which accept number and print its multiples of 5 up to that number.
-
-Input: 25
-Output: 5 10 15 20 25
-
-Time Complexity: O(n)
-
-*/
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Print multiples of 5 up to given number.
+//  Problem     : Write a program which accept number and print its multiples of 5 up to that number.
+//
+//                Input  : 25
+//                Output : 5 10 15 20 25
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

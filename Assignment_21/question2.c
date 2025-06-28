@@ -1,12 +1,19 @@
-/*
-2. Accept N numbers from user and return the smallest number.
-
-Input:N: 6
-
-Elements: 85 66 3 66 93 88
-Output: 3
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.c
+//  Description : Return the smallest number from the array.
+//
+//  Problem     : Accept N numbers from user and return the smallest number.
+//
+//                Input:N = 6
+//
+//                Elements: 85 66 3 66 93 88
+//                Output: 3
+//
+//  Author      : Asawari Jadhav
+//  Date        : 26/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #define TRUE 1

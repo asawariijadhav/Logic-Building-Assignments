@@ -1,19 +1,14 @@
-/*
-4.Accept N numbers and return frequency of number 11 from it.
-
-Input:N = 6
-
-Elements: 85 66 3 15 93 88
-
-Output: 0
-
-Input:N = 6
-
-Elements: 85 11 3 15 11 11
-
-Output: 2
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Return frequency of number 11 from list.
+//
+//  Problem     : Accept N numbers from user and return frequency of number 11.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 24/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <stdlib.h>

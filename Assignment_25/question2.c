@@ -1,11 +1,18 @@
-/*
-2. Write a program which accepts string from user and converts it into uppercase.
-Input:
-"Marvellous Multi OS"
-Output:
-"MARVELLOUS MULTI OS"
 
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.c
+//  Description : Convert string to uppercase.
+//  Problem     : Write a program which accepts string from user and converts it
+//                into uppercase.
+//
+//                Input  : "Marvellous Multi OS"
+//                Output : "MARVELLOUS MULTI OS"
+//
+//  Author      : Asawari Jadhav
+//  Date        : 02/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

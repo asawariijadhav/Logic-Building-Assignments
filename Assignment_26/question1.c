@@ -1,19 +1,20 @@
-/*
-1. Write a program which accepts string from user and a character. Check whether that character is present in string or not.
-Input:
-"Marvellous Multi OS"
-e
-
-Output:
-TRUE
-
-Input:
-"Marvellous Multi OS"
-W
-
-Output:
-FALSE
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Check if character is present in string.
+//  Problem     : Write a program which accepts string from user and a character.
+//                Check whether that character is present in string or not.
+//
+//                Input  : "Marvellous Multi OS", 'e'
+//                Output : TRUE
+//
+//                Input  : "Marvellous Multi OS", 'W'
+//                Output : FALSE
+//
+//  Author      : Asawari Jadhav
+//  Date        : 02/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #define TRUE 1

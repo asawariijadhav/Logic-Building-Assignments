@@ -1,12 +1,20 @@
-/*
-4. Accept N numbers from user and display all such numbers which contain 3 digits in it.
-
-Input:N: 6
-
-Elements: 8225 665 3 76 953 858
-Output: 665 953 858
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Display numbers which have exactly 3 digits.
+//
+//  Problem     : Accept N numbers from user and display all such numbers
+//                which contain 3 digits.
+//
+//                Input: N = 6
+//
+//                Elements: 8225 665 3 76 953 858
+//                Output: 665 953 858
+//
+//  Author      : Asawari Jadhav
+//  Date        : 26/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

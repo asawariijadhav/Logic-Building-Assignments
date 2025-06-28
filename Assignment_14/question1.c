@@ -1,12 +1,22 @@
-/*
-1. Accept number of rows and number of columns from user and display below pattern.
-Input: iRow = 4, iCol = 4
-Output:
-1  2  3  4
-5  6  7  8
-9  1  2  3
-4  5  6  7
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Display matrix with increasing sequence across rows.
+//
+//  Problem     : Accept number of rows and number of columns from user and
+//                display below pattern.
+//
+//                Input: iRow = 4, iCol = 4
+//                Output:
+//                1  2  3  4
+//                5  6  7  8
+//                9  1  2  3
+//                4  5  6  7
+//
+//  Author      : Asawari Jadhav
+//  Date        : 20/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

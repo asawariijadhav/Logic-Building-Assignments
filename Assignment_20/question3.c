@@ -1,17 +1,15 @@
-/*
-3.Accept N numbers from the user and accept one number as NO. Return the index of the last occurrence of that NO.
-Input:N: 6
-NO: 66
-Elements: 85 66 3 66 93 88
-Output: Last occurrence of number is 3
-
-Input:N:  6
-NO: 93
-Elements: 85 66 3 66 93 88
-Output: There is no such number
-
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question3.c
+//  Description : Return the index of the last occurrence of a number.
+//
+//  Problem     : Accept N numbers from the user and accept one number as NO.
+//                Return the index of the last occurrence of that NO.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 26/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <stdlib.h>

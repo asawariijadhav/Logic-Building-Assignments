@@ -1,7 +1,18 @@
-/*
-2: Write a program which accept one number and position fro user and OFF that bit.Return modified number.
-Input: 10 2 → Output: 8
-*/
+////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.cpp
+//  Description : Turn OFF the bit at given position in a number.
+//  Problem     : Write a program which accepts one number and position from user
+//                and turns OFF the bit at that position. Return the modified number.
+//
+//                Input  : 10  2
+//                Output : 8
+//
+//  Author      : Asawari Jadhav
+//  Date        : 18/06/2025
+//
+////////////////////////////////////////////////////////////////////////////////////
+
 
 #include <iostream>
 using namespace std;

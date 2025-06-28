@@ -1,12 +1,18 @@
-/*
-5. Write a program which accepts string from user and display it in reverse order.
 
-Input:
-"MarvellousS"
-Output:
-"SuollevraM"
-
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Display string in reverse order.
+//  Problem     : Write a program which accepts string from user and displays it
+//                in reverse order.
+//
+//                Input  : "MarvellousS"
+//                Output : "SuollevraM"
+//
+//  Author      : Asawari Jadhav
+//  Date        : 30/05/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <string.h>

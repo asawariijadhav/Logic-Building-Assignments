@@ -1,13 +1,17 @@
-/*
-
-1. Write a program which accepts number from user and displays below pattern.
-
-Input: 5
-Output: * * * * *
-
-Time Complexity: O(n)
-
-*/
+///////////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Display n stars on screen.
+//
+//  Problem     : Write a program which accepts number from user and displays below pattern.
+//
+//                Input  : 5
+//                Output : * * * * *
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

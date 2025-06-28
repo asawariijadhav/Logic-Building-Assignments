@@ -1,13 +1,17 @@
-/*
-1. Write a program which accepts string from user and count number of capital characters.
-
-Input:
-"Marvellous Multi OS"
-
-Output:
-4
-
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Count number of capital characters in string.
+//  Problem     : Write a program which accepts string from user and counts number
+//                of capital characters.
+//
+//                Input  : "Marvellous Multi OS"
+//                Output : 4
+//
+//  Author      : Asawari Jadhav
+//  Date        : 30/05/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

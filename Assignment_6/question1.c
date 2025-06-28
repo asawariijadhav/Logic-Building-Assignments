@@ -1,18 +1,24 @@
-/*
+/////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Check range of number and print Small/Medium/Large.
+//
+//  Problem     : Write a program which accepts number from user and:
+//                  If number is less than 50 then print “Small”
+//                  If number is greater than 50 and less than 100 then print “Medium”
+//                  If it is greater than 100 then print “Large”
+//
+//                Input  : 75
+//                Output : Medium
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+///////////////////////////////////////////////////////////////////////////////////////
 
-1. Write a program which accepts number from user and:
-If number is less than 50 then print “Small”
 
-If number is greater than 50 and less than 100 then print “Medium”
 
-If it is greater than 100 then print “Large”
 
-Input 1: 75
-Output 1: Medium
-
-Time Complexity:O(1) – Constant time. No loops involved.
-
-*/
 
 #include <stdio.h>
 

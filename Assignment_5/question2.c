@@ -1,13 +1,17 @@
-/*
-
-2. Write a program which accept number from user and print numbers till that number.
-
-Input: 8
-Output: 1 2 3 4 5 6 7 8
-
-Time Complexity: O(n)
-
-*/
+//////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.c
+//  Description : Print numbers till given number.
+//  Problem     : Write a program which accept number from user and print numbers
+//                till that number.
+//
+//                Input  : 8
+//                Output : 1 2 3 4 5 6 7 8
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+//////////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

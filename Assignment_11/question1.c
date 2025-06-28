@@ -1,11 +1,14 @@
-/*
-
-1. Accept number from user and display below pattern.
-
-Input: 5
-Output:A    B    C    D    E
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Display pattern of alphabets up to given number.
+//
+//  Problem     : Accept number from user and display pattern: A B C D E
+//
+//  Author      : Asawari Jadhav
+//  Date        : 20/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

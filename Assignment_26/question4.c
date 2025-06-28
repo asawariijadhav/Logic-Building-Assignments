@@ -1,11 +1,16 @@
-/*
-4. Write a program to return index of last occurrence of a character
-
-Input :"Marvellous Multi OS", 'M'
-
-
-Output :11
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Return index of last occurrence of character.
+//  Problem     : Write a program to return index of last occurrence of a character.
+//
+//                Input  : "Marvellous Multi OS", 'M'
+//                Output : 11
+//
+//  Author      : Asawari Jadhav
+//  Date        : 02/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

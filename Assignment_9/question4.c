@@ -1,10 +1,15 @@
-/*
-
-4. Write a program which accepts number from user and return the frequency of 4 in it.
-
-Time Complexity: O(n)
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Count frequency of digit 4 in number.
+//
+//  Problem     : Write a program which accepts number from user and return the
+//                frequency of 4 in it.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

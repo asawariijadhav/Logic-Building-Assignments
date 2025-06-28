@@ -1,9 +1,17 @@
-/*
-5.Write a program which accepts file name and one count from user and reads that number of characters from starting position.
-
-Input: Demo.txt, 12
-Output: Display first 12 characters from Demo.txt
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Read specific number of characters from beginning of the file.
+//  Problem     : Write a program which accepts file name and one count from
+//                user and reads that number of characters from starting position.
+//
+//                Input  : Demo.txt, 12
+//                Output : Display first 12 characters from Demo.txt
+//
+//  Author      : Asawari Jadhav
+//  Date        : 13/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <fcntl.h>
@@ -31,7 +39,7 @@ void DisplayN(char FName[], int iSize)
     return;
   }
 
-  write(1, Buffer, iRet); 
+  write(1, Buffer, iRet);
 
   close(fd);
 }

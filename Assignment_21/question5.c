@@ -1,12 +1,20 @@
-/*
-5. Accept N numbers from user and display summation of digits of each number.
-
-Input:N: 6
-
-Elements: 8225 665 3 76 953 858
-Output: 17 17 3 13 17 21
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Display summation of digits of each number.
+//
+//  Problem     : Accept N numbers from user and display summation of digits
+//                of each number.
+//
+//                Input:N = 6
+//
+//                Elements: 8225 665 3 76 953 858
+//                Output: 17 17 3 13 17 21
+//
+//  Author      : Asawari Jadhav
+//  Date        : 26/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

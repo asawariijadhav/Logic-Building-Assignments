@@ -1,13 +1,14 @@
-/*
-3. Accept character and check whether it is digit or not (0-9)
-
-Input: 7
-Output : TRUE
-
-Input: d
-Output :FALSE
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question3.c
+//  Description : Check whether the given character is a digit (0-9).
+//
+//  Problem     : Accept character and check whether it is digit or not.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 26/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #define TRUE 1

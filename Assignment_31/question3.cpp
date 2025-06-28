@@ -1,8 +1,17 @@
-/*
-3. Write a program which accept one number from user and toggle 7th bit of that number. Return modified number.
-Input : 137
-Output : 201
-*/
+////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question3.cpp
+//  Description : Toggle the 7th bit of a number.
+//  Problem     : Write a program which accepts one number from user and
+//                toggles the 7th bit of that number. Return modified number.
+//
+//                Input  : 137
+//                Output : 201
+//
+//  Author      : Asawari Jadhav
+//  Date        : 18/06/2025
+//
+////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
 using namespace std;

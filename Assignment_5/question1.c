@@ -1,19 +1,17 @@
-/*
-
-1. Write a program which accept number from user and print that number of * on screen.
-
-Input: 5
-Output: * * * * *
-
-Input: 3
-Output: * * *
-
-Input: -3
-Output: * * *
-
-Time Complexity: O(n)
-
-*/
+//////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Print given number of * on screen.
+//  Problem     : Write a program which accept number from user and print that number
+//                of * on screen.
+//
+//                Input  : 5
+//                Output : * * * * *
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+/////////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

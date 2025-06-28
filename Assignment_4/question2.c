@@ -1,20 +1,17 @@
-/*
-
-2. Write a program which accept number from user and display its factors in decreasing order.
-
-Input:  12
-Output: 6   4   3   2   1
-
-Input:  10
-Output: 5   2   1
-
-Input:   8
-Output: 4   2   1
-
-Time Complexity:
-O(n) where n = iNo/2
-
-*/
+/////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.c
+//  Description : Display factors of given number in decreasing order.
+//  Problem     : Write a program which accept number from user and display its 
+//                factors in decreasing order.
+//
+//                Input  : 12
+//                Output : 6   4   3   2   1
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+/////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

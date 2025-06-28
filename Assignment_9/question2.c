@@ -1,10 +1,15 @@
-/*
-
-// Q2. Write a program which accept number from user and check whether it contains 0 in it or not.
-
-Time Complexity:
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.c
+//  Description : Check whether number contains 0.
+//
+//  Problem     : Write a program which accept number from user and check whether
+//                it contains 0 in it or not.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

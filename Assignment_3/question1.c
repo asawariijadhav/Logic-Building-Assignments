@@ -1,4 +1,17 @@
-// Write a program which accept one number from user and print that number of even numbers on screen.
+/////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Print even numbers on screen given number of times.
+//  Problem     : Write a program which accept one number from user and print
+//                that number of even numbers on screen.
+//
+//                Input  : 5
+//                Output : 2 4 6 8 10
+//
+//  Author      : Asawari Jadhav
+//  Date        : 10/05/2025
+//
+/////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

@@ -1,13 +1,18 @@
-/*
-
-5. Write a program which returns the difference between even factorial and odd factorial of given number.
-
-Input: 5
-Output: -7  (8 - 15)
-
-Time Complexity: O(n)
-
-*/
+////////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Find difference between even and odd factorial of given number.
+//
+//  Problem     : Write a program which returns the difference between even factorial
+//                and odd factorial of given number.
+//
+//                Input  : 5
+//                Output : -7  (8 - 15)
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+/////////////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

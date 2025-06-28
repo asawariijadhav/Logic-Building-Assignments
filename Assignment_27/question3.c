@@ -1,17 +1,19 @@
-/*
-3. Write a program which accept string from user and copy capital characters of that string into another string.
 
-Input:
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question3.c
+//  Description : Copy capital characters into another string.
+//  Problem     : Write a program which accepts string from user and copies
+//                capital characters into another string.
+//
+//                Input  : "Marvellous Multi OS"
+//                Output : MMOS
+//
+//  Author      : Asawari Jadhav
+//  Date        : 02/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
-Output:
-
-"Marvellous Multi OS"
-
-"MMOS"
-
-
-
-*/
 
 #include <stdio.h>
 

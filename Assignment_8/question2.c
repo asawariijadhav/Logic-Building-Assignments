@@ -1,16 +1,20 @@
-/*
-
-2. Write a program which accepts width & height of rectangle from user and calculate its area. (Area = Width × Height)
-
-Input: Width = 5.3
-Height = 9.78
-
-Output:Area = 51.834
-
-
-Time Complexity: O(1)
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.c
+//  Description : Calculate area of rectangle.
+//
+//  Problem     : Write a program which accepts width & height of rectangle from
+//                user and calculate its area.
+//
+//                (Area = Width × Height)
+//                Input  : Width = 5.3
+//                         Height = 9.78
+//                Output : Area = 51.834
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

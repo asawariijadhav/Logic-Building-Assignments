@@ -1,10 +1,18 @@
-/*
-4.Write a program which accepts file name and one character from user and counts number of occurrences of that character from that file.
-
-Input: Demo.txt, 'M'
-Output: Frequency of M is 7
-
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Count frequency of a specific character in the file.
+//  Problem     : Write a program which accepts file name and one character
+//                from user and counts number of occurrences of that character
+//                from that file.
+//
+//                Input  : Demo.txt, 'M'
+//                Output : Frequency of M is 7
+//
+//  Author      : Asawari Jadhav
+//  Date        : 13/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <fcntl.h>

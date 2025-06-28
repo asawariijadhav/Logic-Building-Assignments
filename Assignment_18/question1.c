@@ -1,14 +1,20 @@
-/*
-1.Accept N numbers from user and return the difference between the summation of even elements and summation of odd elements.
-
-Input:
-N = 6
-Elements: 85 66 3 80 93 88
-
-Output:
-53  (234 - 181)
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Return difference between summation of even and odd elements.
+//
+//  Problem     : Accept N numbers from user and return the difference between
+//                the summation of even elements and summation of odd elements.
+//
+//                Input: N = 6
+//
+//                Elements: 85 66 3 80 93 88
+//                Output: 53  (234 - 181)
+//
+//  Author      : Asawari Jadhav
+//  Date        : 24/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <stdlib.h>

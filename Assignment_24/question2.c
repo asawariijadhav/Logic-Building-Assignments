@@ -1,14 +1,18 @@
-/*
-2. Write a program which accepts string from user and count number of small characters.
 
-Input:
-"Marvellous"
-
-Output:
-9
-
-*/
-
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.c
+//  Description : Count number of small characters in string.
+//  Problem     : Write a program which accepts string from user and counts number
+//                of small characters.
+//
+//                Input  : "Marvellous"
+//                Output : 9
+//
+//  Author      : Asawari Jadhav
+//  Date        : 30/05/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 #include <stdio.h>
 
 int CountSmall(char *str)

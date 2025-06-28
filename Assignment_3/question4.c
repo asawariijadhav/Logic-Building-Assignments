@@ -1,4 +1,16 @@
-//Accept one character from user and convert case of that character.
+////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Convert case of given character.
+//  Problem     : Accept one character from user and convert case of that character.
+//
+//                Input  : 'A'
+//                Output : 'a'
+//
+//  Author      : Asawari Jadhav
+//  Date        : 10/05/2025
+//
+//////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

@@ -1,16 +1,15 @@
-/*
-
-4. Write a program which accepts a number from user and returns the multiplication of all digits.
-
-Input : 2395    → Output : 270  (2 * 3 * 9 * 5)
-Input : 1018    → Output : 8    (1 * 0 * 1 * 8 = 0, but often zero is ignored)
-Input : 9440    → Output : 144
-Input : 922432  → Output : 864
-
-
-Time Complexity: O(n)
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Multiplication of digits of number.
+//
+//  Problem     : Write a program which accepts a number from user and returns the
+//                multiplication of all digits.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

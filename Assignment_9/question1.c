@@ -1,10 +1,15 @@
-/*
-
-1. Write a program which accepts number from user and display its digits in reverse order.
-
-Time Complexity: O(N) where N is the number of digits
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Display digits of number in reverse order.
+//
+//  Problem     : Write a program which accepts number from user and display its
+//                digits in reverse order.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

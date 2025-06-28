@@ -1,16 +1,15 @@
-/*
-
-1. Write a program which accepts a number from the user and returns the count of even digits.
-
-Input: 2395   → Output: 1  
-Input: 1018   → Output: 2  
-Input: -1018  → Output: 2  
-Input: 8462   → Output: 4
-
-
-Time Complexity: O(n)
-
-*/
+//////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Count of even digits in number.
+//
+//  Problem     : Write a program which accepts a number from the user and returns
+//                the count of even digits.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

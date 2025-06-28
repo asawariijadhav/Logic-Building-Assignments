@@ -1,20 +1,15 @@
-/*
-4.Accept N numbers from the user and accept Range, Display elements within a given range.
-Input 1:N = 6
-Start = 60
-End = 90
-Elements = 85 66 3 76 93 88
-Output: 66 76 88
-
-Input 2:N = 6
-Start = 30
-End = 50
-Elements = 85 66 3 76 93 88
-
-Output:
-
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Display all elements within a given range.
+//
+//  Problem     : Accept N numbers from the user and accept a range.
+//                Display elements within the given range.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 26/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <stdlib.h>

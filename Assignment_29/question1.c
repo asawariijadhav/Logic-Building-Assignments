@@ -1,12 +1,17 @@
-/*
-1.Write a program which accepts file name from user and counts number of capital characters from that file.
-
-Input:
-Demo.txt
-
-Output:
-Number of capital characters are 23
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Count number of capital characters in the file.
+//  Problem     : Write a program which accepts file name from user and counts
+//                number of capital characters from that file.
+//
+//                Input  : Demo.txt
+//                Output : Number of capital characters are 23
+//
+//  Author      : Asawari Jadhav
+//  Date        : 13/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <fcntl.h>

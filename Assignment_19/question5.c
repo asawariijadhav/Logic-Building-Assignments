@@ -1,21 +1,15 @@
-/*
-5.Accept N numbers and one another number, return frequency of that number
-Input:N = 6
-      No = 66
-
-Elements: 85 66 3 66 93 88
-
-Output: 0
-
-Input:N = 6
-     No = 12
-
-Elements: 85 11 3 15 11 111
-
-Output: 2
-
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Return frequency of a given number.
+//
+//  Problem     : Accept N numbers and one additional number from user.
+//                Return the frequency of that number.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 24/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <stdlib.h>

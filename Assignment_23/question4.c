@@ -1,6 +1,15 @@
-/*
-4. Check if character is special symbol (!, @, #, $, %, ^, &, *)
-*/
+
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Check for special symbols.
+//  Problem     : Write a program which accepts character from user and checks
+//                whether it is one of these special symbols: !, @, #, $, %, ^, &, *.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 30/05/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

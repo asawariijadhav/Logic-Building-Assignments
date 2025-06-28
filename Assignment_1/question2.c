@@ -1,4 +1,13 @@
-// Program to print 5 times "Marvellous" on screen.
+//////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.c
+//  Description : Program to print "Marvellous" on screen 5 times.
+//  Problem     : Write a program to print "Marvellous" on screen 5 times.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 10/05/2025
+//
+//////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

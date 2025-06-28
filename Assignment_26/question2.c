@@ -1,21 +1,21 @@
-/*
-2. Write a program which accepts string from user and a character. Return frequency of that character.
-Input:
-"Marvellous Multi OS"
-M
 
-Output:
-2
-
-Input:
-"Marvellous Multi OS"
-W
-
-Output:
-0
-
-
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.c
+//  Description : Return frequency of character in string.
+//  Problem     : Write a program which accepts string from user and a character.
+//                Return frequency of that character.
+//
+//                Input  : "Marvellous Multi OS", 'M'
+//                Output : 2
+//
+//                Input  : "Marvellous Multi OS", 'W'
+//                Output : 0
+//
+//  Author      : Asawari Jadhav
+//  Date        : 02/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

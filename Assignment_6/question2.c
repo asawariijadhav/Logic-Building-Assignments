@@ -1,14 +1,17 @@
-/*
-
-2. Accept single digit number from user and print it into word.
-
-Input 1: 3
-Output 1: Three
-
-Time Complexity:O(1) – O(1) – Only one decision block is checked.
-
-*/
-
+/////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.c
+//  Description : Print digit into word.
+//
+//  Problem     : Accept single digit number from user and print it into word.
+//
+//                Input  : 3
+//                Output : Three
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+/////////////////////////////////////////////////////////////////////////////////
 #include <stdio.h>
 
 void Display(int iNo)

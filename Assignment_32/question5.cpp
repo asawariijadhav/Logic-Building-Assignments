@@ -1,7 +1,14 @@
-/*
-5: Write a program which accept one number from user and toggle contents of first and last nibble of the number.Return modified number.
-
-*/
+/////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.cpp
+//  Description : Toggle first and last nibble of a number.
+//  Problem     : Write a program which accepts one number from user and toggles
+//                the contents of the first and last nibble. Return modified number.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 18/06/2025
+//
+////////////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
 using namespace std;

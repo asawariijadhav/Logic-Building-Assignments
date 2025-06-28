@@ -1,8 +1,18 @@
-/*
-2. Write application which accepts file name from user and creates that file.
-Input: Demo.txt
-Output: File created successfully
-*/
+
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.c
+//  Description : Create a new file.
+//  Problem     : Write application which accepts file name from user and creates
+//                that file.
+//
+//                Input  : Demo.txt
+//                Output : File created successfully
+//
+//  Author      : Asawari Jadhav
+//  Date        : 13/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <fcntl.h>

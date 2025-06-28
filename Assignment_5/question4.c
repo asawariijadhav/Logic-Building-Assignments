@@ -1,13 +1,17 @@
-/*
-
-4. Write a program which accept number from user and print odd numbers up to that number.
-
-Input: 13
-Output: 1 3 5 7 9 11 13
-
-Time Complexity: O(n)
-
-*/
+////////////////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Print odd numbers till given number.
+//  Problem     : Write a program which accept number from user and print odd numbers up
+//                to that number.
+//
+//                Input  : 13
+//                Output : 1 3 5 7 9 11 13
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+///////////////////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

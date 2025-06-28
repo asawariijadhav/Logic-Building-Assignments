@@ -1,8 +1,17 @@
-/*
-4. Write a program which accept one Number , two positions  from user and check whether bit at first or bit at second position is ON or OFF.
-Input: 10 3 7
-Output: TRUE
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.cpp
+//  Description : Check whether bit at first or second position is ON or OFF.
+//  Problem     : Write a program which accepts one number and two positions
+//                from user and checks whether the bit at either position is ON.
+//
+//                Input  : 10  3  7
+//                Output : TRUE
+//
+//  Author      : Asawari Jadhav
+//  Date        : 18/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
 using namespace std;

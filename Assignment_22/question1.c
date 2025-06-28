@@ -1,13 +1,14 @@
-/*
-1.Accept character and check whether it is alphabet or not (A-Z / a-z).
-
-Input: F
-Output : TRUE
-
-Input: &
-Output :FALSE
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Check whether the given character is an alphabet (A-Z / a-z).
+//
+//  Problem     : Accept character and check whether it is alphabet or not.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 26/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #define TRUE 1

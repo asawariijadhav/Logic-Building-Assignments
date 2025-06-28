@@ -1,13 +1,14 @@
-/*
- 5. Accept division and display exam timing based on division (A/B/C/D)
-
-Input: C
-Output : Your exam at 9.20 AM
-
-Input: d
-Output :Your exam at 10.30 AM
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Display exam timing based on division (A/B/C/D).
+//
+//  Problem     : Accept division and display exam timing based on division.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 26/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #define TRUE 1

@@ -1,10 +1,23 @@
-/*
-5: Count Number of White Spaces
-Input 1: "MarvellouS" → Output: 0
-Input 2: "Marvellous Infosystems" → Output: 1
-Input 3: "Marvellous Infosystems by Piyush Manohar Khairnnar" → Output: 5
-
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Count number of white spaces in string.
+//  Problem     : Write a program which accepts string from user and counts number
+//                of white spaces.
+//
+//                Input  : "MarvellouS"
+//                Output : 0
+//
+//                Input  : "Marvellous Infosystems"
+//                Output : 1
+//
+//                Input  : "Marvellous Infosystems by Piyush Manohar Khairnnar"
+//                Output : 5
+//
+//  Author      : Asawari Jadhav
+//  Date        : 02/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

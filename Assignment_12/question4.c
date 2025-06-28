@@ -1,11 +1,14 @@
-/*
-4. Accept number of rows and number of columns from user and display below pattern.
-Input: iRow = 3  iCol = 4
-Output:
-*  #  *  #
-*  #  *  #
-*  #  *  #
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Display * # pattern with given rows and columns.
+//
+//  Problem     : Accept number of rows and columns and display pattern.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 20/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

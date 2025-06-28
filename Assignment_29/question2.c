@@ -1,12 +1,17 @@
-/*
-2.Write a program which accepts file name from user and counts number of small characters from that file.
-
-Input:
-Demo.txt
-
-Output:
-Number of small characters are 21
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.c
+//  Description : Count number of small characters in the file.
+//  Problem     : Write a program which accepts file name from user and counts
+//                number of small characters from that file.
+//
+//                Input  : Demo.txt
+//                Output : Number of small characters are 21
+//
+//  Author      : Asawari Jadhav
+//  Date        : 13/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <fcntl.h>

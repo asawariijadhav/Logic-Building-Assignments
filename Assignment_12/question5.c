@@ -1,11 +1,15 @@
-/*
-5. Accept number of rows and number of columns from user and display below pattern.
-Input: iRow = 3  iCol = 4
-Output:
-1  1  1  1
-2  2  2  2
-3  3  3  3
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Display row-wise number pattern.
+//
+//  Problem     : Accept number of rows and columns and display pattern.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 20/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
+
 
 #include <stdio.h>
 

@@ -1,10 +1,16 @@
-/*
-3. Write a program to return index of first occurrence of a character
-Input : "Marvellous Multi OS", 'M'
-
-
-Output: 0
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question3.c
+//  Description : Return index of first occurrence of character.
+//  Problem     : Write a program to return index of first occurrence of a character.
+//
+//                Input  : "Marvellous Multi OS", 'M'
+//                Output : 0
+//
+//  Author      : Asawari Jadhav
+//  Date        : 02/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

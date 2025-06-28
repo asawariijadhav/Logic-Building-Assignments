@@ -1,21 +1,15 @@
-/*
-3.Accept N numbers and check whether any number contains digit 11 or not
-
-Input:N = 6
-
-Elements: 85 66 11 80 93 88
-
-Output: 11 is present
-
-Input:N = 6
-
-Elements: 85 66 3 80 93 88
-
-Output: 11 is absent
-
-
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question3.c
+//  Description : Check whether any number contains digit 11.
+//
+//  Problem     : Accept N numbers from user and check whether any number
+//                contains digit 11 or not.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 24/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <stdlib.h>

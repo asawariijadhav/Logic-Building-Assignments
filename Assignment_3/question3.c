@@ -1,4 +1,18 @@
-// Write a program which accept one number from user and print even factors of that number.
+
+/////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question3.c
+//  Description : Print even factors of given number.
+//  Problem     : Write a program which accept one number from user and print
+//                even factors of that number.
+//
+//                Input  : 24
+//                Output : 2 4 6 8 12
+//
+//  Author      : Asawari Jadhav
+//  Date        : 10/05/2025
+//
+/////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

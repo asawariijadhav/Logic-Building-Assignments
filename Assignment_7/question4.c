@@ -1,14 +1,17 @@
-/*
-
-4. Write a program to find odd factorial of given number.
-
-Input: 5
-Output: 15  (5 * 3 * 1)
-
-Time Complexity: O(n)
-
-*/
-
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Calculate odd factorial of given number.
+//
+//  Problem     : Write a program to find odd factorial of given number.
+//
+//                Input  : 5
+//                Output : 15  (5 * 3 * 1)
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 #include <stdio.h>
 
 int OddFactorial(int iNo)

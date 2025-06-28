@@ -1,12 +1,22 @@
-/*
-5. Accept number of rows and number of columns from user and display below pattern.
-Input: iRow = 4, iCol = 4
-Output:
-1	2	3	4
-1	*	*	4
-1	*	*	4
-1	2	3	4
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Display boundary number pattern with inner stars.
+//
+//  Problem     : Accept number of rows and number of columns from user and
+//                display below pattern.
+//
+//                Input: iRow = 4, iCol = 4
+//                Output:
+//                1   2   3   4
+//                1   *   *   4
+//                1   *   *   4
+//                1   2   3   4
+//
+//  Author      : Asawari Jadhav
+//  Date        : 24/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

@@ -1,12 +1,14 @@
-/*
-2. Accept number of rows and number of columns from user and display below pattern.
-Input: iRow = 4, iCol = 4
-Output:
-A  B  C  D
-a  b  c  d
-A  B  C  D
-a  b  c  d
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.c
+//  Description : Display pattern of capital and small letters alternately.
+//
+//  Problem     : Accept number of rows and columns and display pattern.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 20/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

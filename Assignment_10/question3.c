@@ -1,17 +1,15 @@
-/*
-
-3. Write a program which accepts a number and returns the count of digits in range 3 to 7.
-
-Input: 2395   → Output: 1
-Input: 1018   → Output: 0
-Input: 4521   → Output: 1
-Input: 9922   → Output: 0
-
-
-Time Complexity: O(n)
-
-*/
-
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question3.c
+//  Description : Count digits in range 3 to 7.
+//
+//  Problem     : Write a program which accepts a number and returns the count of
+//                digits in range 3 to 7.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 #include <stdio.h>
 
 int CountRange(int iNo)

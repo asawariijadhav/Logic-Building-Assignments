@@ -1,15 +1,17 @@
-/*
-
-3. Write a program which finds factorial of given number.
-
-Input 1: 5
-Output 1: 120
-
-(Factorial: 5 × 4 × 3 × 2 × 1 = 120)
-
-Time Complexity:O(1) – O(n) – One loop from 1 to n.
-
-*/
+/////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question3.c
+//  Description : Find factorial of number.
+//
+//  Problem     : Write a program which finds factorial of given number.
+//
+//                Input  : 5
+//                Output : 120
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+/////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

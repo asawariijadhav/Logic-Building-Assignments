@@ -1,15 +1,17 @@
-/*
-1. Copy entire string (strcpy implementation)
-
-Input:"Marvellous Multi OS"
-
-
-Output:Marvellous Multi OS
-
-
-
-
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Copy entire string (strcpy implementation).
+//  Problem     : Write a program which accepts string from user and copies entire 
+//                string into another string.
+//
+//                Input  : "Marvellous Multi OS"
+//                Output : Marvellous Multi OS
+//
+//  Author      : Asawari Jadhav
+//  Date        : 02/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

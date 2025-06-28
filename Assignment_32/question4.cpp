@@ -1,7 +1,17 @@
-/*
-4: Write a program which accept one number and position fro user and toggle that bit.Return modified number.
-Input: 10 3 → Output: 14
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.cpp
+//  Description : Toggle the bit at given position in a number.
+//  Problem     : Write a program which accepts one number and position from user
+//                and toggles the bit at that position. Return the modified number.
+//
+//                Input  : 10  3
+//                Output : 14
+//
+//  Author      : Asawari Jadhav
+//  Date        : 18/06/2025
+//
+//////////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
 using namespace std;

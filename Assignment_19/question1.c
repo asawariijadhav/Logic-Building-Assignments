@@ -1,13 +1,18 @@
-/*
-1.Accept N numbers and return frequency of even numbers
-Input: N = 6
-
-Elements: 85 66 3 80 93 88
-
-Output: 3
-
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Return frequency of even numbers.
+//
+//  Problem     : Accept N numbers from user and return frequency of even numbers.
+//                Input:N = 6
+//
+//                Elements: 85 66 3 80 93 88
+//                Output: 3
+//
+//  Author      : Asawari Jadhav
+//  Date        : 24/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <stdlib.h>

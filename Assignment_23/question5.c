@@ -1,7 +1,16 @@
-/*
-5. Display ASCII value in Decimal, Octal, and Hex format
 
-*/
+///////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Display ASCII value in Decimal, Octal, and Hexadecimal.
+//  Problem     : Write a program which accepts character from user and displays its
+//                ASCII value in Decimal, Octal, and Hexadecimal formats.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 30/05/2025
+//
+/////////////////////////////////////////////////////////////////////////////////////
+
 #include <stdio.h>
 
 void Display(char ch)

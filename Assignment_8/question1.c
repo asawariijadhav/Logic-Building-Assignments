@@ -1,13 +1,18 @@
-/*
-
-1. Write a program which accepts radius of circle from user and calculate its area. (Area = π * Radius * Radius)
-
-Input: Radius = 5.3
-Output:Area = 88.2026
-
-Time Complexity: O(1)
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Calculate area of circle.
+//
+//  Problem     : Write a program which accepts radius of circle from user and
+//                calculate its area.(Area = π * Radius * Radius)
+//
+//                Input  : Radius = 5.3
+//                Output : Area = 88.2026
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

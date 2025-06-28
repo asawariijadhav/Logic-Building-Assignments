@@ -1,11 +1,24 @@
-/*
-1. Write a program which accepts string from user and converts it into lowercase.
-Input:
-"Marvellous Multi OS"
-Output:
-"marvellous multi os"
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Convert string to lowercase.
+//  Problem     : Write a program which accepts string from user and converts it
+//                into lowercase.
+//
+//                Input  : "Marvellous Multi OS"
+//                Output : "marvellous multi os"
+//
+//  Author      : Asawari Jadhav
+//  Date        : 02/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
-*/
+
+
+
+
+
+
 
 #include <stdio.h>
 

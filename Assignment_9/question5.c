@@ -1,11 +1,15 @@
-/*
-
-5. Write a program which accepts number from user and count frequency of such a digits which are less than 6.
-
-Time Complexity:
-
-*/
-
+////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Count frequency of digits less than 6.
+//
+//  Problem     : Write a program which accepts number from user and count frequency
+//                of such digits which are less than 6.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////////
 #include <stdio.h>
 
 int Count(int iNo)

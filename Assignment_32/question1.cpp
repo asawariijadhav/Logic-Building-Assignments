@@ -1,7 +1,18 @@
-/*
-1: Write a program which accept one number and position fro user and check whether bit at that position is ON or OFF.If bit is one return TRUE otherwisw return FALSE.
-Input: 10 2 → Output: TRUE (Bit is ON)
-*/
+//////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.cpp
+//  Description : Check whether the bit at given position is ON or OFF.
+//  Problem     : Write a program which accepts one number and a position
+//                from user and checks whether the bit at that position is ON.
+//                If it is ON return TRUE, otherwise return FALSE.
+//
+//                Input  : 10  2
+//                Output : TRUE
+//
+//  Author      : Asawari Jadhav
+//  Date        : 18/06/2025
+//
+/////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
 using namespace std;

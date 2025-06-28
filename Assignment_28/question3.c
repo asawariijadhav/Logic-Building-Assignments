@@ -1,8 +1,17 @@
-/*
-3. Write application which accepts file name from user and reads all data from that file and displays contents on screen.
-Input: Demo.txt
-Output: Display all data of file.
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question3.c
+//  Description : Read all data from file and display contents.
+//  Problem     : Write application which accepts file name from user and reads
+//                all data from that file and displays contents on screen.
+//
+//                Input  : Demo.txt
+//                Output : Display all data of file.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 13/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <fcntl.h>

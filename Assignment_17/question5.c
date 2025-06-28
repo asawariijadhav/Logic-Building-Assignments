@@ -1,14 +1,23 @@
-/*
-5. Accept number of rows and number of columns from user and display below pattern.
-Input: iRow = 4, iCol = 4
-Output:
-1 2 3 4 5
-1 2     5
-1   3   5
-1     4 5
-1 2 3 4 5
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Display frame of numbers with diagonal highlights.
+//
+//  Problem     : Accept number of rows and number of columns from user and
+//                display below pattern.
+//
+//                Input: iRow = 4, iCol = 4
+//                Output:
+//                1 2 3 4 5
+//                1 2     5
+//                1   3   5
+//                1     4 5
+//                1 2 3 4 5
+//
+//  Author      : Asawari Jadhav
+//  Date        : 24/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 void Pattern(int iRow, int iCol)
 {

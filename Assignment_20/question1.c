@@ -1,20 +1,15 @@
-/*
-1.Accept N numbers from the user and accept one another number as NO. Check whether NO is present or not.
-Input:N: 6
-NO: 66
-Elements: 85 66 3 66 93 88
-
-
-Output: Number is present
-
-
-Input:N: 6
-NO: 12
-Elements: 85 11 3 66 93 88
-
-Output: Number is not present
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.c
+//  Description : Check whether a given number is present in the array.
+//
+//  Problem     : Accept N numbers from the user and accept one another number
+//                as NO. Check whether NO is present or not.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 26/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,10 +1,18 @@
-/*
-5. Write application which accepts file name from user and one string from user. Write that string at the end of file.
-Input:
-Demo.txt
-Hello World
-Output: Write Hello World at the end of Demo.txt file
-*/
+
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Append string to end of file.
+//  Problem     : Write application which accepts file name from user and one
+//                string from user. Write that string at the end of file.
+//
+//                Input  : Demo.txt, Hello World
+//                Output : Write Hello World at the end of Demo.txt file
+//
+//  Author      : Asawari Jadhav
+//  Date        : 13/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <fcntl.h>

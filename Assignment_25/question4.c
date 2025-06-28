@@ -1,11 +1,18 @@
-/*
- 4: Display Only Digits from String
-Input:
-"marve89llous121"
-Output:
-89121
 
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Display only digits from string.
+//  Problem     : Write a program which accepts string from user and displays only
+//                digits from that string.
+//
+//                Input  : "marve89llous121"
+//                Output : 89121
+//
+//  Author      : Asawari Jadhav
+//  Date        : 02/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

@@ -1,15 +1,15 @@
-/*
-5.Accept N numbers from the user and  Return product of all odd elements
-Input:N: 6
-Elements: 15 66 3 70 10 88
-Output: 45
-
-Input:N: 6
-NO: 12
-Elements: 44 66 72 70 10 88
-Output: 0
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Return product of all odd elements in the array.
+//
+//  Problem     : Accept N numbers from the user and return product of all
+//                odd elements.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 26/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <stdlib.h>

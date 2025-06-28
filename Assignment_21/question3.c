@@ -1,11 +1,20 @@
-/*
-3. Accept N numbers from user and return the difference between largest and smallest number.
-Input:N: 6
-
-Elements: 85 66 3 66 93 88
-Output: 90(93-3)
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question3.c
+//  Description : Return difference between largest and smallest numbers.
+//
+//  Problem     : Accept N numbers from user and return the difference between
+//                largest and smallest number.
+//
+//                Input: N = 6
+//
+//                Elements: 85 66 3 66 93 88
+//                Output: 90 (93 - 3)
+//
+//  Author      : Asawari Jadhav
+//  Date        : 26/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

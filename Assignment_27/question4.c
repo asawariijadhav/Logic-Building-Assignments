@@ -1,16 +1,17 @@
-/*
-4. Write a program which accept string from user and copy small characters of that string into another string.
-
-Input:
-
-Output:
-
-"Marvellous multi OS"
-
-"arvellous multi"
-
-
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Copy small characters into another string.
+//  Problem     : Write a program which accepts string from user and copies
+//                small characters into another string.
+//
+//                Input  : "Marvellous multi OS"
+//                Output : arvellous multi
+//
+//  Author      : Asawari Jadhav
+//  Date        : 02/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

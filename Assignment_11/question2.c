@@ -1,9 +1,14 @@
-/*
-2. Accept number from user and display below pattern.
-Input: 5
-Output:5    #    4    #    3    #    2    #    1    #
-
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.c
+//  Description : Display number and # in pattern.
+//
+//  Problem     : Accept number from user and display pattern: 5 # 4 # 3 # 2 # 1 #
+//
+//  Author      : Asawari Jadhav
+//  Date        : 20/05/2025
+//
+//////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

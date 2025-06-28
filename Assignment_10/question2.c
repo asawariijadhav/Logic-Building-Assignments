@@ -1,15 +1,15 @@
-/*
-
-2. Write a program which accepts a number from the user and returns the count of odd digits.
-
-Input: 2395   → Output: 3
-Input: 1018   → Output: 2
-Input: -1018  → Output: 2
-Input: 8462   → Output: 0
-
-Time Complexity: O(n)
-
-*/
+//////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.c
+//  Description : Count of odd digits in number.
+//
+//  Problem     : Write a program which accepts a number from the user and returns
+//                the count of odd digits.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+//////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

@@ -1,7 +1,15 @@
-/*
-3. Print A-Z from input (if capital) or reverse a-z to input (if small)
-
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question3.c
+//  Description : Print sequence of characters based on input.
+//  Problem     : Write a program which accepts character from user and
+//                - if capital, print A to input
+//                - if small, print input to 'a' in reverse
+//
+//  Author      : Asawari Jadhav
+//  Date        : 30/05/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

@@ -1,12 +1,22 @@
-/*
-5. Accept number of rows and number of columns from user and display below pattern.
-Input: iRow = 4, iCol = 4
-Output:
-1 2 3 4
-2 3 4 5
-3 4 5 6
-4 5 6 7
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Display matrix with diagonally increasing numbers.
+//
+//  Problem     : Accept number of rows and number of columns from user and
+//                display below pattern.
+//
+//                Input: iRow = 4, iCol = 4
+//                Output:
+//                1 2 3 4
+//                2 3 4 5
+//                3 4 5 6
+//                4 5 6 7
+//
+//  Author      : Asawari Jadhav
+//  Date        : 20/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

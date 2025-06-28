@@ -1,6 +1,14 @@
-/*
-5.Write a program which Check whether 1st and 32nd bit is ON or OFF.
-*/
+////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.cpp
+//  Description : Check whether 1st and 32nd bits are ON or OFF.
+//  Problem     : Write a program which checks whether the 1st and 32nd
+//                bits in the given number are ON or OFF.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 18/06/2025
+//
+////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
 using namespace std;

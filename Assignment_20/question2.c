@@ -1,17 +1,15 @@
-/*
-2.Accept N numbers from user and accept one number as NO. Return the index of the first occurrence of that NO.
-Input:N: 6
-NO: 66
-Elements: 85 66 3 66 93 88
-Output: First occurrence of number is 1
-
-Input:N:6
-NO: 12
-Elements: 85 11 3 66 93 88
-Output: There is no such number
-
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.c
+//  Description : Return the index of the first occurrence of a number.
+//
+//  Problem     : Accept N numbers from user and accept one number as NO.
+//                Return the index of the first occurrence of that NO.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 26/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -23,10 +21,10 @@ int FirstOcc(int Arr[], int iLength, int iNo)
   {
     if (Arr[i] == iNo)
     {
-      return i; 
+      return i;
     }
   }
-  return -1; 
+  return -1;
 }
 
 int main()

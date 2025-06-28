@@ -1,6 +1,14 @@
-/*
-2.Write a program which checks whether 5th and 18th bit is ON or OFF.
-*/
+////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.cpp
+//  Description : Check whether 5th and 18th bits are ON or OFF.
+//  Problem     : Write a program which checks whether the 5th and 18th bits
+//                in the given number are ON or OFF.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 18/06/2025
+//
+////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
 using namespace std;

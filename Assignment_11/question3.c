@@ -1,9 +1,14 @@
-/*
-3. Accept number from user and display below pattern.
-Input: 5
-Output:1    *    2    *    3    *    4    *    5    *
-
-*/
+//////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question3.c
+//  Description : Display number and * in pattern.
+//
+//  Problem     : Accept number from user and display pattern: 1 * 2 * 3 * 4 * 5 *
+//
+//  Author      : Asawari Jadhav
+//  Date        : 20/05/2025
+//
+//////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

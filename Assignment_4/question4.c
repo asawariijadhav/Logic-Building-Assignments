@@ -1,20 +1,17 @@
-/*
-
-4. Write a program which accept number from user and return summation of all its non factors.
-
-Input:  12
-Output: 50
-
-Input:  10
-Output: 38
-
-Input:   8
-Output: 21
-
-Time Complexity:
-O(n) where n = iNo
-
-*/
+//////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Return summation of all non factors of given number.
+//  Problem     : Write a program which accept number from user and return summation 
+//                of all its non factors.
+//
+//                Input  : 12
+//                Output : 50
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+///////////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

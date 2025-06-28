@@ -1,10 +1,15 @@
-/*
-
-5. Write a program which accepts area in square feet and convert it into square meter. (1 Square feet = 0.0929 Square meter)
-
-Time Complexity: O(1)
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Convert area in square feet to square meter.
+//
+//  Problem     : Write a program which accepts area in square feet and convert
+//                it into square meter.(1 Square feet = 0.0929 Square meter)
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

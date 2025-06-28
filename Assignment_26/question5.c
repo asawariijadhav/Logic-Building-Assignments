@@ -1,12 +1,16 @@
-/*
-5. Write a program to reverse string in-place
-
-Input : "abcd"
-
-
-Output : "dcba"
-
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question5.c
+//  Description : Reverse string in-place.
+//  Problem     : Write a program to reverse string in-place.
+//
+//                Input  : "abcd"
+//                Output : "dcba"
+//
+//  Author      : Asawari Jadhav
+//  Date        : 02/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

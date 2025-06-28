@@ -1,11 +1,17 @@
-/*
-2: Copy first N characters (strncpy implementation)
-
-Input:"Marvellous Multi OS", 10
-
-Output:Marvellous
-
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.c
+//  Description : Copy first N characters (strncpy implementation).
+//  Problem     : Write a program which accepts string and number N from user and
+//                copies first N characters into another string.
+//
+//                Input  : "Marvellous Multi OS", 10
+//                Output : Marvellous
+//
+//  Author      : Asawari Jadhav
+//  Date        : 02/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

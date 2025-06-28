@@ -1,15 +1,18 @@
-/*
-
-3. Write a program which accepts distance in kilometer and convert it into meter. (1 KM = 1000 Meter)
-
-Input: Distance = 12
-
-Output:Meter = 12000
-
-
-Time Complexity: O(1)
-
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question3.c
+//  Description : Convert distance in kilometer to meter.
+//
+//  Problem     : Write a program which accepts distance in kilometer and convert
+//                it into meter.(1 KM = 1000 Meter)
+//
+//                Input  : Distance = 12
+//                Output : Meter = 12000
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+//////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

@@ -1,14 +1,17 @@
-/*
-
-3. Write a program to find even factorial of given number.
-
-Input: 5
-Output:8  (4 * 2)
-
-
-Time Complexity: O(n)
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question3.c
+//  Description : Calculate even factorial of given number.
+//
+//  Problem     : Write a program to find even factorial of given number.
+//
+//                Input  : 5
+//                Output : 8  (4 * 2)
+//
+//  Author      : Asawari Jadhav
+//  Date        : 17/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

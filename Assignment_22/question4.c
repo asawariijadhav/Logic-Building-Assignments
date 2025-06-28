@@ -1,13 +1,14 @@
-/*
-4. Accept character and check whether it is small case or not (a-z)
-
-Input: g
-Output : TRUE
-
-Input: D
-Output :FALSE
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question4.c
+//  Description : Check whether the given character is lowercase (a-z).
+//
+//  Problem     : Accept character and check whether it is small case or not.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 26/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #define TRUE 1

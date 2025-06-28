@@ -1,12 +1,14 @@
-/*
-2. Accept character and check whether it is capital or not (A-Z)
-Input : F
-Output : TRUE
-
-Input: d
-Output :FALSE
-
-*/
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question2.c
+//  Description : Check whether the given character is capital (A-Z).
+//
+//  Problem     : Accept character and check whether it is capital or not.
+//
+//  Author      : Asawari Jadhav
+//  Date        : 26/05/2025
+//
+////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #define TRUE 1

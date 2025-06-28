@@ -1,11 +1,17 @@
-/*
-3. Write a program which accepts string from user and toggles the case.
-Input:
-"Marvellous Multi OS"
-Output:
-"mARVELLOUS mULTI os"
-
-*/
+///////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question3.c
+//  Description : Toggle the case of characters in string.
+//  Problem     : Write a program which accepts string from user and toggles the
+//                case of each character.
+//
+//                Input  : "Marvellous Multi OS"
+//                Output : "mARVELLOUS mULTI os"
+//
+//  Author      : Asawari Jadhav
+//  Date        : 02/06/2025
+//
+///////////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 

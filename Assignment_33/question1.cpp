@@ -1,8 +1,18 @@
-/*
-1. Write a program which accept one Number from user and Count number of ON (1) bits in it without using % or / operator.
-Input: 11
-Output: 3
-*/
+//////////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name   : question1.cpp
+//  Description : Count number of ON (1) bits in a number without using % or / operator.
+//  Problem     : Write a program which accepts one number from user and
+//                counts the number of ON (1) bits in it without using
+//                modulus (%) or division (/) operator.
+//
+//                Input  : 11
+//                Output : 3
+//
+//  Author      : Asawari Jadhav
+//  Date        : 18/06/2025
+//
+//////////////////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
 using namespace std;
