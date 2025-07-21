@@ -28,8 +28,9 @@ int Frequency(T *arr, int iSize, T iNo)
 
 int main()
 {
-  int arr[] = {10, 20, 30, 10, 30, 40, 10, 40, 10};
-  int iRet = Frequency(arr, 9, 10);
-  printf("%d\n", iRet); // 4
-  return 0;
+    int arr[] = {10, 20, 30, 10, 30, 40, 10, 40, 10};
+    int iRet = Frequency(arr, 9, 10);
+
+    cout << iRet << endl;  
+    return 0;
 }

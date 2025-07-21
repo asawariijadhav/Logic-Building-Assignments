@@ -31,6 +31,6 @@ int main()
 {
   int arr[] = {10, 20, 30, 10, 30, 40, 10, 40, 10};
   int iRet = SearchLast(arr, 9, 40);
-  printf("%d\n", iRet); // 8
+  cout << iRet << endl; 
   return 0;
 }

@@ -30,6 +30,6 @@ int main()
 {
   int arr[] = {10, 20, 30, 10, 30, 40, 10, 40, 10};
   int iRet = SearchFirst(arr, 9, 40);
-  printf("%d\n", iRet); // 6
+  cout << iRet << endl; 
   return 0;
 }
